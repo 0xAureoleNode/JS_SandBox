@@ -1,25 +1,9 @@
-// Types Conversion
-
-let val;
-// number => string
-// val = String(5);
-
-// bool to string
-// val = String(true)
-
-// ary to string
-// val = String([1, 2, 3, 4])
-
-// .toString()
-
-// String to Number
-// val = Number('5')
-// bool to number
-// val = Number(true)
-// val = Number(false)
-// NaN is an actual value that stands for not a number
-
-// parseInt => parse it as an integer
-
-console.log(val);
-console.log(typeof val);
+// Math.abs => return absolute value
+// Math.floor => always rounds down and returns the largest integer less than or equal to a given number.
+// Math.PI => return PI
+// Math.E => return E
+// Math.round() => return the value of a number rounded to the nearest interger
+// Math.ceil() => 四舍五入返回最大端的数字
+// Math.floor(2.8) => return the floor value
+// Math.sqrt(64) => square root
+// Math.pow(8, 2)
